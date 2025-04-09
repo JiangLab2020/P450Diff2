@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=4 python extract.py esm1b_t33_650M_UR50S 1.fasta esm/p450diffusion --repr_layers 33 --include mean

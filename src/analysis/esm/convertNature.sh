@@ -1,0 +1,1 @@
+python extract.py esm1b_t33_650M_UR50S filtered_test_sequences.fasta esm/nature --repr_layers 33 --include mean
